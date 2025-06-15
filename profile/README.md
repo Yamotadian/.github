@@ -10,3 +10,9 @@ This organization contains all the important repositories required to build AOSP
 * [**Devhunter**](https://github.com/devhunter1)
 * [**Yamota**](https://github.com/yamotaprjkt)
 * [**Smiley9000**](https://github.com/smiley9000)
+
+Supported Devices - 
+Samsung - a10s , a04e , f14x , m14x , a14x , a71 
+Xioami - Redmi note 9 
+
+AND MANY MORE
