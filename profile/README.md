@@ -4,7 +4,7 @@
 
 <img align="right" width="250" height="250" src="https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a14-5g.jpg">
 
-This organization contains all the important repositories required to build AOSP/LineageOS based ROMs for Samsung Galaxy Exynos13303 ( f14x , m14x , a14x )
+This organization contains all the important repositories required to build AOSP/LineageOS based ROMs for Samsung Galaxy Exynos1330 ( f14x , m14x , a14x )
 
 ### Repositories
 * [**Device Tree m14x**](https://github.com/yamotaprjkt/android_device_samsung_m14x) (`android_device_samsung_m14x`)
