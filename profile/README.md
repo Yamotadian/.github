@@ -15,7 +15,7 @@ This organization contains all the important repositories required to build AOSP
 * [**Vendor Tree f14x**](https://github.com/yamotaprjkt/android_vendor_samsung_f14x) (`android_vendor_samsung_f14x`)
 * [**Kernel Source**](https://github.com/yamotaprjkt/android_kernel_samsung_s5e8535) (`android_kernel_samsung_s5e8535`)
 * [**Common Device Tree**](https://github.com/yamotaprjkt/android_device_samsung_universal8535-common) (`android_device_samsung_universal8535-common`)
-* [**Common Vendor tree**](https://github.com/yamotaprjkt/android_vendor_samsung_universal8535-common) (`android_kernel_samsung_universal8535-common`)
+* [**Common Vendor tree**](https://github.com/yamotaprjkt/android_vendor_samsung_universal8535-common) (`android_vendor_samsung_universal8535-common`)
 * [**Local Manifests**](https://github.com/yamotaprjkt/manifest_exynos1330) (`local manifest`)
 
 # CONTRIBUTERS
