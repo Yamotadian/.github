@@ -15,3 +15,9 @@ This organization contains all the important repositories required to build AOSP
 * [**Device Tree a14x**](https://github.com/yamotaprjkt/android_device_samsung_a14x) (`android_device_samsung_a14x`)
 * [**Vendor Tree a14x**](https://github.com/yamotaprjkt/android_vendor_samsung_a14x) (`android_vendor_samsung_a14x`)
 * [**Local Manifests**](https://github.com/yamotaprjkt/manifest_exynos1330) (`local manifest`)
+
+# CONTRIBUTERS
+
+* [**Citty**](https://github.com/extreme729)
+* [**Devhunter**](https://github.com/devhunter1)
+* [**Yamota**](https://github.com/yamotaprjkt)
