@@ -9,11 +9,13 @@ This organization contains all the important repositories required to build AOSP
 ### Repositories
 * [**Device Tree m14x**](https://github.com/yamotaprjkt/android_device_samsung_m14x) (`android_device_samsung_m14x`)
 * [**Vendor Tree m14x**](https://github.com/yamotaprjkt/android_vendor_samsung_m14x) (`android_vendor_samsung_m14x`)
+* [**Device Tree a14x**](https://github.com/yamotaprjkt/android_device_samsung_a14x) (`android_device_samsung_a14x`)
+* [**Vendor Tree a14x**](https://github.com/yamotaprjkt/android_vendor_samsung_a14x) (`android_vendor_samsung_a14x`)
+* [**Device Tree a14x**](https://github.com/yamotaprjkt/android_device_samsung_f14x) (`android_device_samsung_f14x`)
+* [**Vendor Tree a14x**](https://github.com/yamotaprjkt/android_vendor_samsung_f14x) (`android_vendor_samsung_f14x`)
 * [**Kernel Source**](https://github.com/yamotaprjkt/android_kernel_samsung_s5e8535) (`android_kernel_samsung_s5e8535`)
 * [**Common Device Tree**](https://github.com/yamotaprjkt/android_device_samsung_universal8535-common) (`android_device_samsung_universal8535-common`)
 * [**Common Vendor tree**](https://github.com/yamotaprjkt/android_vendor_samsung_universal8535-common) (`android_kernel_samsung_universal8535-common`)
-* [**Device Tree a14x**](https://github.com/yamotaprjkt/android_device_samsung_a14x) (`android_device_samsung_a14x`)
-* [**Vendor Tree a14x**](https://github.com/yamotaprjkt/android_vendor_samsung_a14x) (`android_vendor_samsung_a14x`)
 * [**Local Manifests**](https://github.com/yamotaprjkt/manifest_exynos1330) (`local manifest`)
 
 # CONTRIBUTERS
